@@ -1,5 +1,3 @@
-# enblitz-exercise-chintanboghara
-
 sudo apt update <br />
 sudo apt install  software-properties-common gnupg2 curl <br />
 curl https://apt.releases.hashicorp.com/gpg | gpg --dearmor > hashicorp.gpg <br />
